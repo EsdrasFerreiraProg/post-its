@@ -201,15 +201,3 @@ body{
   margin-top: 5% !important;
 }
 
-:root {
-  --bulma-primary-h: 255deg;
-  --bulma-primary-s: 98%;
-  --bulma-primary-l: 100%;
-  --bulma-link-h: 37deg;
-  --bulma-link-s: 97%;
-  --bulma-link-l: 62%;
-  --bulma-info-h: 37deg;
-  --bulma-info-s: 97%;
-  --bulma-info-l: 62%;
-}
-
