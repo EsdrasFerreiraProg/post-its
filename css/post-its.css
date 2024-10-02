@@ -157,7 +157,7 @@ strong:hover{
 .card{
   width: 30% !important;
   border-color: #fcb542 !important;
-  box-shadow: 4px 4px 8px black; 
+  box-shadow: 1px 1px 1px 1px white; 
   
 }
 

@@ -12,7 +12,6 @@ app.use(cookieParser());
 app.use(routes);
 const logger = require("./logger/logger.js");
 
-
 app.listen(PORT, (err)=>{
     logger.info(`Listening on port: ${PORT}`);
 
